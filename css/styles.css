@@ -1,0 +1,15 @@
+body{
+  margin-bottom: auto;
+}
+nav{
+  background-color: #002B5B;
+}
+#botones{
+  margin-left: 75%;
+}
+#nav{
+  display: flex;
+}
+#pie{
+  margin-left: 40%;
+}
