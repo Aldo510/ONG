@@ -1,15 +1,54 @@
 body{
   margin-bottom: auto;
+  height: 100%;
 }
-nav{
+/*.nav{
   background-color: #002B5B;
+}*/
+main{
+  height: 100%;
+  width: 100px;
 }
-#botones{
-  margin-left: 75%;
+.imagenFondo {
+    position: relative;
+  /*  width: 10px;*/ /* ancho de la imagen OPCIONAL */
+  /*  height: 10px;*/ /* largo de la imagen OPCIONAL */
+}
+#home span {
+    position: absolute;
+    width:240px;
+    height:200px;
+    left: 0;
+    margin-left: 42%;
+    margin-top: 10%;
+    /*box-shadow: 2px 2px 5px #000000;*/
+}
+#home span img {
+  width:100%;
+}
+#video{
+  width: 100%;
+}
+#Texto{
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 #nav{
   display: flex;
 }
-#pie{
-  margin-left: 40%;
+#form{
+  border-width:5px;
+  border-style:outset;
+  margin-top: 10px;
+}
+#conoce{
+  margin-right: 130px;
+}
+.dropdown-content {
+  width: 200px!important;
+  position: absolute;
+  top: 65px!important;
+  /*left: 693.52px;
+  opacity: 1;
+  display: none;*/
 }
