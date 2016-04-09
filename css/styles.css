@@ -19,11 +19,15 @@ footer{
   bottom: 0px!important;
 }
 #area{
-  background-color: #C1C1C1;
+  background-color: #F2F2F2;
   margin-top: 10px;
   border-style: solid;
-  border-color: #B1B1B1;
+  border-color: #F2F2F2 ;
   border-width: 40px;
+}
+.image{
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 .justificar{
   text-align: justify;
